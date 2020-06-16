@@ -5,13 +5,12 @@ name: Continous Integration
 
 on:
   push:
-    branches: [ master, staging ]
+    branches: [master, staging]
   pull_request:
-    branches: [ master, staging ]
+    branches: [master, staging]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
@@ -19,11 +18,10 @@ jobs:
         node-version: [10.x]
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - run: yarn ci
-    - run: yarn run build --if-present
-    - run: yarn test
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: yarn run build --if-present
+      - run: yarn test
