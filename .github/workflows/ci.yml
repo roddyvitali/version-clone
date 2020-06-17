@@ -29,5 +29,5 @@ jobs:
       - name: Release
         if: github.event_name == 'push'
         run: yarn semantic-release
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
