@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 const Feature2 = () => <p>New Feature 2.0</p>;
+const Feature2 = () => <p>New Feature 2</p>;
 const Feature = () => <p>New Feature</p>;
 
 function App() {
