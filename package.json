@@ -11,6 +11,11 @@
     "react-scripts": "3.4.1",
     "semantic-release": "^17.0.8"
   },
+  "files": [
+    "CHANGELOG.md",
+    "package.json",
+    "yarn.lock"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
