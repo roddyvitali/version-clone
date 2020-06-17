@@ -1,3 +1,10 @@
+# [1.1.0-dev.2](https://github.com/roddyvitali/version-clone/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2020-06-17)
+
+
+### Features
+
+* add feature 3 ([a7093f3](https://github.com/roddyvitali/version-clone/commit/a7093f3cda30a8eac8e0309f120365060c0fa820))
+
 # [1.1.0-dev.1](https://github.com/roddyvitali/version-clone/compare/v1.0.0...v1.1.0-dev.1) (2020-06-17)
 
 
