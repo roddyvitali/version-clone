@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
+const Feature7 = () => <p>New Feature 7.0</p>;
 const Feature6 = () => <p>New Feature 6.0</p>;
 const Feature5 = () => <p>New Feature 5.0</p>;
 const Feature4 = () => <p>New Feature 4.0</p>;
@@ -23,6 +24,7 @@ function App() {
         <Feature4 />
         <Feature5 />
         <Feature6 />
+        <Feature7 />
 
         <a
           className="App-link"
