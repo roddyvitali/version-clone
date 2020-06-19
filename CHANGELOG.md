@@ -1,3 +1,22 @@
+# [1.2.0-staging.4](https://github.com/roddyvitali/version-clone/compare/v1.2.0-staging.3...v1.2.0-staging.4) (2020-06-19)
+
+
+### Bug Fixes
+
+* ci branch ([73853b7](https://github.com/roddyvitali/version-clone/commit/73853b7d64e64a1621eca110e14b5342fa75538e))
+
+
+### Features
+
+* feature 4 ([7b0abe0](https://github.com/roddyvitali/version-clone/commit/7b0abe049866cf7a08039c2d44a73f938da9ec19))
+
+# [1.2.0-staging.3](https://github.com/roddyvitali/version-clone/compare/v1.2.0-staging.2...v1.2.0-staging.3) (2020-06-19)
+
+
+### Bug Fixes
+
+* add prop ([2e9c72e](https://github.com/roddyvitali/version-clone/commit/2e9c72ebf25b002ffda74af43d4126b260f3d215))
+
 # [1.2.0-dev.1](https://github.com/roddyvitali/version-clone/compare/v1.1.0...v1.2.0-dev.1) (2020-06-19)
 
 
