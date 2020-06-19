@@ -27,7 +27,7 @@ jobs:
       - run: yarn test
       # - run: yarn run build --if-present
   prerelease:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/dev'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/staging'
     runs-on: ubuntu-latest
     needs: [build]
     steps:
