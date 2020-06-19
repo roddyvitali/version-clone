@@ -1,3 +1,44 @@
+# [1.3.0-staging.1](https://github.com/roddyvitali/version-clone/compare/v1.2.0...v1.3.0-staging.1) (2020-06-19)
+
+
+### Bug Fixes
+
+* add prop ([2e9c72e](https://github.com/roddyvitali/version-clone/commit/2e9c72ebf25b002ffda74af43d4126b260f3d215))
+* ci branch ([73853b7](https://github.com/roddyvitali/version-clone/commit/73853b7d64e64a1621eca110e14b5342fa75538e))
+* ci branch ([6fdd9d9](https://github.com/roddyvitali/version-clone/commit/6fdd9d978dfc8a9479a633f575f8acd7c5ff859c))
+* env ci ([f3d8d2d](https://github.com/roddyvitali/version-clone/commit/f3d8d2df6916c8e2f415852264c6ef6e64f66ef0))
+* Feature change ([84d9930](https://github.com/roddyvitali/version-clone/commit/84d9930879985993246c00da653b26b0edbc11d8))
+* remove yarn ci ([b866db0](https://github.com/roddyvitali/version-clone/commit/b866db070817bde52adea6afba6628e1c44ae3ad))
+
+
+### Features
+
+* 5.0 ([51db3ad](https://github.com/roddyvitali/version-clone/commit/51db3adb7c4ebe944a31045a0b2e304000f2ca99))
+* 6.0 ([335aef0](https://github.com/roddyvitali/version-clone/commit/335aef0cac539e717a6502570c65bb8be59b34c9))
+* 8 ([1888ac4](https://github.com/roddyvitali/version-clone/commit/1888ac4fd51c77e3b2b2614b324f764ba5fceed2))
+* add changelog ([b380212](https://github.com/roddyvitali/version-clone/commit/b380212ff57e945ca35b298cc47d9bc4062f8993))
+* add feature ([115ca54](https://github.com/roddyvitali/version-clone/commit/115ca5410b0960ad2bfc87f8e7935e0f0ab867b9))
+* add feature 3 ([a7093f3](https://github.com/roddyvitali/version-clone/commit/a7093f3cda30a8eac8e0309f120365060c0fa820))
+* add feature component ([b813371](https://github.com/roddyvitali/version-clone/commit/b813371358aef901d814f80898f61201627b983c))
+* add semantic release ([d5d5b12](https://github.com/roddyvitali/version-clone/commit/d5d5b12546d7799422bf8582fb1cb41c9d38c5aa))
+* feat 7 ([539a400](https://github.com/roddyvitali/version-clone/commit/539a4008bff1ea3ccd09d4910a7372f69482bdf3))
+* feature 4 ([7b0abe0](https://github.com/roddyvitali/version-clone/commit/7b0abe049866cf7a08039c2d44a73f938da9ec19))
+* feature 4 ([b31ad69](https://github.com/roddyvitali/version-clone/commit/b31ad69d27007bedf1f55d1d99922bb1d3f0376d))
+
+# [1.2.0-staging.5](https://github.com/roddyvitali/version-clone/compare/v1.2.0-staging.4...v1.2.0-staging.5) (2020-06-19)
+
+
+### Bug Fixes
+
+* ci branch ([6fdd9d9](https://github.com/roddyvitali/version-clone/commit/6fdd9d978dfc8a9479a633f575f8acd7c5ff859c))
+
+
+### Features
+
+* 5.0 ([51db3ad](https://github.com/roddyvitali/version-clone/commit/51db3adb7c4ebe944a31045a0b2e304000f2ca99))
+* 6.0 ([335aef0](https://github.com/roddyvitali/version-clone/commit/335aef0cac539e717a6502570c65bb8be59b34c9))
+* feature 4 ([b31ad69](https://github.com/roddyvitali/version-clone/commit/b31ad69d27007bedf1f55d1d99922bb1d3f0376d))
+
 # [1.2.0-staging.4](https://github.com/roddyvitali/version-clone/compare/v1.2.0-staging.3...v1.2.0-staging.4) (2020-06-19)
 
 
