@@ -14,7 +14,6 @@
   ],
   "branches": [
     { "name": "master" },
-    { "name": "staging", "channel": "staging", "prerelease": "staging" },
-    { "name": "dev", "channel": "dev", "prerelease": "dev" }
+    { "name": "staging", "channel": "staging", "prerelease": "staging" }
   ]
 }
