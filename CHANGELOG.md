@@ -1,9 +1,21 @@
-# [1.1.0-dev.3](https://github.com/roddyvitali/version-clone/compare/v1.1.0-dev.2...v1.1.0-dev.3) (2020-06-19)
+# [1.2.0-staging.2](https://github.com/roddyvitali/version-clone/compare/v1.2.0-staging.1...v1.2.0-staging.2) (2020-06-17)
+
 
 
 ### Bug Fixes
+* env ci ([f3d8d2d](https://github.com/roddyvitali/version-clone/commit/f3d8d2df6916c8e2f415852264c6ef6e64f66ef0))
+* Feature change ([84d9930](https://github.com/roddyvitali/version-clone/commit/84d9930879985993246c00da653b26b0edbc11d8))
+* remove yarn ci ([b866db0](https://github.com/roddyvitali/version-clone/commit/b866db070817bde52adea6afba6628e1c44ae3ad))
 
-* add prop ([2e9c72e](https://github.com/roddyvitali/version-clone/commit/2e9c72ebf25b002ffda74af43d4126b260f3d215))
+
+### Features
+
+* add changelog ([b380212](https://github.com/roddyvitali/version-clone/commit/b380212ff57e945ca35b298cc47d9bc4062f8993))
+* add feature ([115ca54](https://github.com/roddyvitali/version-clone/commit/115ca5410b0960ad2bfc87f8e7935e0f0ab867b9))
+* add feature 3 ([a7093f3](https://github.com/roddyvitali/version-clone/commit/a7093f3cda30a8eac8e0309f120365060c0fa820))
+* add feature component ([b813371](https://github.com/roddyvitali/version-clone/commit/b813371358aef901d814f80898f61201627b983c))
+* add semantic release ([d5d5b12](https://github.com/roddyvitali/version-clone/commit/d5d5b12546d7799422bf8582fb1cb41c9d38c5aa))
+
 
 # [1.1.0-dev.2](https://github.com/roddyvitali/version-clone/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2020-06-17)
 
