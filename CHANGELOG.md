@@ -1,3 +1,10 @@
+# [1.1.0-dev.3](https://github.com/roddyvitali/version-clone/compare/v1.1.0-dev.2...v1.1.0-dev.3) (2020-06-19)
+
+
+### Bug Fixes
+
+* add prop ([2e9c72e](https://github.com/roddyvitali/version-clone/commit/2e9c72ebf25b002ffda74af43d4126b260f3d215))
+
 # [1.1.0-dev.2](https://github.com/roddyvitali/version-clone/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2020-06-17)
 
 
