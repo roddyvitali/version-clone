@@ -1,7 +1,20 @@
 {
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    ["@semantic-release/npm", { "npmPublish": false }],
+    [
+      "@semantic-release/github",
+      {
+        "assets": "release/*.tgz"
+      }
+    ],
+    "@semantic-release/git"
+  ],
   "branches": [
     { "name": "master" },
     { "name": "staging", "channel": "staging", "prerelease": "staging" },
-    { "name": "beta", "channel": "beta", "prerelease": "beta" }
+    { "name": "dev", "channel": "dev", "prerelease": "dev" }
   ]
 }

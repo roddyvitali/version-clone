@@ -1,6 +1,6 @@
 {
   "name": "version-clone",
-  "version": "0.1.0",
+  "version": "1.2.0-staging.4",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -11,6 +11,11 @@
     "react-scripts": "3.4.1",
     "semantic-release": "^17.0.8"
   },
+  "files": [
+    "CHANGELOG.md",
+    "package.json",
+    "yarn.lock"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -31,5 +36,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/commit-analyzer": "^8.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.0.7",
+    "@semantic-release/npm": "^7.0.5",
+    "@semantic-release/release-notes-generator": "^9.0.1"
   }
 }
