@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
+const Feature4 = () => <p>New Feature 4.0</p>;
 const Feature3 = () => <p>New Feature 3.0</p>;
 const Feature2 = () => <p>New Feature 2.0</p>;
 const Feature = () => <p>New Feature</p>;
@@ -17,6 +18,7 @@ function App() {
         <Feature />
         <Feature2 />
         <Feature3 />
+        <Feature4 />
         <a
           className="App-link"
           href="https://reactjs.org"
